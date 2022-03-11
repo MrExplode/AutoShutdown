@@ -1,0 +1,12 @@
+name: AutoShutdown
+version: '${version}'
+main: me.sunstorm.autoshutdown.AutoShutdown
+api-version: 1.18
+authors: [ SunStorm ]
+description: Automatically shutdown everything
+website: https://sunstorm.rocks
+
+commands:
+  autoshutdown:
+    aliases: as
+    description: Manage automatic shutdown
